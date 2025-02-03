@@ -1,0 +1,19 @@
+{
+  "name": "linalgp",
+  "version": "1.0.0",
+  "description": "A simple linear algebra package for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanA662607/linalgp.git"
+  },
+  "author": "A. Pan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PanA662607/linalgp/issues"
+  },
+  "homepage": "https://github.com/PanA662607/linalgp#readme"
+}
